@@ -1,0 +1,29 @@
+{% extends "base.html" %} {% block content %}
+
+<div class="blog__header">
+  <h1>{{section.title}}</h1>
+
+  <nav class="blog__nav">
+    <p>Selected tags:</p>
+
+    <a href="/tags/thisthat/">This & That: A Self Portrait</a>
+    <a href="/tags/drama/">A Few Grams of Drama</a>
+  </nav>
+</div>
+
+
+<div class="blog__posts">
+{% for year, posts in section.pages | group_by(attribute="year") %}
+  <h3 class="blog__year h1">{{ year }}</h2>
+
+  {% for page in posts %}
+    {% set page = page %}
+    {% set header_level = 4 %}
+    {% include "partials/post-card.html" %}
+  {% endfor %}
+{% endfor %}
+</div>
+
+
+
+{% endblock content %}

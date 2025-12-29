@@ -1,0 +1,80 @@
+{% if page.title %}
+  {% set page_data = page %}
+{% elif section.title %}
+  {% set page_data = section %}
+{% elif term.name %}
+  {% set title = "Tag: " ~ term.name ~ " · Kosta Tadić" | striptags | safe %}
+  {% set meta_title = term.name | striptags | safe | capitalize %}
+  {% set description = "Kosta Tadić - An independent author born in Yugoslavia in 1982" %}
+{% elif taxonomy.name %}
+  {% set title = "Tags · Kosta Tadić" | striptags | safe %}
+  {% set meta_title = taxonomy.name | striptags | safe | capitalize %}
+  {% set description = "Kosta Tadić - An independent author born in Yugoslavia in 1982" %}
+{% else %}
+  {% set title = "Kosta Tadić" %}
+  {% set meta_title = "Kosta Tadić" %}
+  {% set description = "Kosta Tadić - An independent author born in Yugoslavia in 1982" %}
+{% endif %}
+
+{% if page_data %}
+  {% set title = page_data.title ~ " · Kosta Tadić" | striptags | safe %}
+  {% set meta_title = page_data.title | striptags | safe %}
+
+  {% if page_data.extra.intro %}
+    {% set description = page_data.extra.intro %}
+  {% else %}
+    {% set description = page_data.content | striptags | truncate(length=150) %}
+  {% endif %}
+{% endif %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ title }}</title>
+
+    <link rel="stylesheet" href="/styles.css" />
+
+    <link rel="icon" href="/favicon/icon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon/icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" />
+    <meta content="width=device-width,initial-scale=1.0" name="viewport" />
+
+    {% if current_url %}
+      <meta property="og:url" content="{{ current_url | safe }}" />
+    {% else %}
+      {# 404 error page #}
+      <meta property="og:url" content="https://kostatadic.com" />
+    {% endif %}
+
+    <meta name="twitter:title" content="{{ meta_title }}" />
+    <meta name="twitter:description" content="{{ description }}" />
+
+    {% if page_data.extra.image %}
+      <meta property="twitter:image" content="{{ config.base_url | safe }}{{ page_data.extra.image | safe }}" />
+      <meta property="og:image" content="{{ config.base_url | safe }}{{ page_data.extra.image | safe }}" />
+    {% else %}
+      <meta property="twitter:image" content="{{ config.base_url | safe }}/img/home/thumb.jpg" />
+      <meta property="og:image" content="{{ config.base_url | safe }}/img/home/thumb.jpg" />
+    {% endif %}
+
+    {% block rss %}
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+    {% endblock %}
+
+    {% block head %}{% endblock %}
+  </head>
+
+  <body class="">
+    <div class="app">
+      {% include "partials/header.html" %}
+      <main class="">
+        {% block content %} {% endblock %}
+      </main>
+      {% include "partials/footer.html" %}
+    </div>
+
+    <script src="/js/fslightbox.js"></script>
+    <script src="/js/app.js"></script>
+  </body>
+</html>

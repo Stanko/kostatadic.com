@@ -1,0 +1,27 @@
++++
+date = "2017-10-27"
+title = "The Ballad of an Alcoholic"
+
+
+[taxonomies]
+
+tags = [ "alcoholism", "hotel-chronicles", "poetry" ]
++++
+
+Got to cut my nails, got to shave my face, got to clean my place, till there is no trace of the two-week booze day-and-night abuse... And my head is aching, and my will keeps breaking down...
+
+Down, down, down...
+
+Have to find the strength and get on my feet... Have to go out, buy something to eat... And I'm so afraid of facing the street... 'Cause I can't stop shaking, and my nerves keep breaking down...
+
+Down, down, down...
+
+See an open bottle, right next to the sink... I jump off the chair, fix myself a drink... And I take the glass, I kiss it and hug it... While smelling the whiskey, I smile and I slug it down...
+
+Down, down, down...
+
+And my head's not aching... And my hands stop shaking...
+
+**_2017_**
+
+Tea rocks!

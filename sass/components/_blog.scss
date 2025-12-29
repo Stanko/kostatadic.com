@@ -1,0 +1,28 @@
+.blog__nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+
+  a {
+  }
+}
+
+.blog__posts {
+  display: grid;
+  margin-top: 2rem;
+
+  @include md {
+  }
+
+  @include lg {
+  }
+}
+
+.blog__year {
+  margin: 3rem 0 2rem;
+}
+
+.blog__year:first-child {
+  margin-top: 0;
+}

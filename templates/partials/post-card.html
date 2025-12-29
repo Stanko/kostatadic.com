@@ -1,0 +1,16 @@
+{% if not header_level %}
+  {% set header_level = 2  %}
+{% endif %}
+
+<a href="{{ page.permalink }}" class="post-card">
+
+  <h{{ header_level }} class="post-card__title h3">
+      {{ page.title }}
+  </h{{ header_level }}>
+
+  {% if page.extra.image %}
+    <div class="post-card__image-wrapper">
+      <img class="post-card__image" src="{{ page.permalink | safe }}/images/{{ page.extra.image | safe }}" alt="{{ page.title }}">
+    </div>
+  {% endif %}
+</a>

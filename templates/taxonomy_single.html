@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Posts tagged with: <strong>{{ term.name }}</strong></h1>
+
+<div class="blog__posts">
+  {% for page in term.pages %}
+    {% set page = page %}
+    {% include "partials/post-card.html" %}
+  {% endfor %}
+</div>
+
+{% endblock %}

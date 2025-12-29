@@ -1,0 +1,12 @@
+.tags__list {
+  margin-top: 2rem;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.tags__tag {
+  span {
+    color: var(--text-light);
+    font-size: 0.875em;
+  }
+}

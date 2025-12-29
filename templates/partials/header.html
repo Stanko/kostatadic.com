@@ -1,0 +1,26 @@
+<header class="header">
+  <div class="container">
+    <header class="header__content">
+      {% if current_url %}
+        {% if current_path == "/" %}
+          {# Home #}
+          <h1 class="header__kosta"><a href="/">Kosta Tadić</a></h1>
+        {% else %}
+          {# All other pages #}
+          <div class="header__kosta h1"><a href="/">Kosta Tadić</a></div>
+        {% endif %}
+      {% else %}
+        {# 404 #}
+        <h1 class="header__kosta"><a href="/">Kosta Tadić</a></h1>
+      {% endif %}
+
+      <p>Yugoslavia-born writer and artist</p>
+    </header>
+
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="https://www.youtube.com/user/kostatadic1">YouTube</a>
+    </nav>
+  </div>
+</header>

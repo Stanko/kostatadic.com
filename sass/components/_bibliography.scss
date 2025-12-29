@@ -1,0 +1,19 @@
+.bibliography {
+  display: grid;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.book {
+  a {
+    /* color: var(--fg); */
+  }
+
+  p {
+    color: var(--text-light);
+  }
+}
+
+.book__lang {
+  font-size: 0.75em;
+}
