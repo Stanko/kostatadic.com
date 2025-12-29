@@ -14,7 +14,7 @@ minify_html = false
 generate_feeds = true
 
 taxonomies = [
-  { name = "tags", feed = true},
+  { name = "tags", feed = false },
 ]
 
 [markdown]
