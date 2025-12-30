@@ -8,4 +8,6 @@ title = "Playlist: THREE TIMES THREE (Days of Peace and Music)"
 tags = [ "equality", "hope", "love", "peace", "playlist", "poetry" ]
 +++
 
-01\. Woodstock (Joni Mitchell) 02. Woodstock (Crosby Stills Nash & Young) 03. Woodstock (Matthews Southern Comfort)
+01\. Woodstock (Joni Mitchell)  
+02. Woodstock (Crosby Stills Nash & Young)  
+03. Woodstock (Matthews Southern Comfort)

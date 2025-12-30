@@ -20,13 +20,19 @@ tags = [
 ]
 +++
 
-Wan-an, my Sun.
+Wan-an,  
+my Sun.  
 
-Good night, my Light.
+Good night,  
+my Light.  
 
-Sleep tight, my bright little Moon…
+Sleep tight,  
+my bright  
+little Moon…  
 
-‘Cause You are like a Star, dear Pu…
+‘Cause You are  
+like a Star,  
+dear Pu…  
 
 **_26/03/2018_**
 

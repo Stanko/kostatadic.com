@@ -7,6 +7,7 @@
   position: relative;
   margin-inline: -1.25rem;
   padding: 0.5rem 1.25rem;
+  text-decoration: none;
 
   @include md {
     min-height: 3.25rem;
@@ -22,7 +23,7 @@
   &:focus-visible {
     text-decoration-color: currentColor;
     z-index: 1;
-    background: rgb(0 0 0 / 0.025);
+    background: rgb(0 0 0 / 0.04);
 
     .post-card__image-wrapper {
       width: 10rem;
@@ -34,6 +35,10 @@
       }
     }
   }
+}
+
+.post-card__title {
+  color: inherit;
 }
 
 .post-card__image-wrapper {

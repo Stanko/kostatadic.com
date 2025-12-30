@@ -15,6 +15,9 @@ tags = [
 ]
 +++
 
-Every time I see you walking up the street, beautiful and nice, elegant and sweet, the whole world seems so bright, perfect and complete, and I only hope that our eyes will meet...
+Every time I see you walking up the street,  
+beautiful and nice, elegant and sweet,  
+the whole world seems so bright, perfect and complete,  
+and I only hope that our eyes will meet…  
 
 **_12/11/2017_**

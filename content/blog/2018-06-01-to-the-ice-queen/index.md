@@ -8,25 +8,35 @@ title = "To the Ice Queen"
 tags = [ "friendship", "jenita", "love", "poetry" ]
 +++
 
-Jenita is very nice But she has a heart of ice
+Jenita is very nice  
+But she has a heart of ice  
 
-She's a rare and precious jewel But she's also very cruel
+She’s a rare and precious jewel  
+But she’s also very cruel  
 
-She's beautiful, she is smart But she has a vicious heart
+She’s beautiful, she is smart  
+But she has a vicious heart  
 
-She's 24-carat gold But she's also very cold
+She’s 24-carat gold  
+But she’s also very cold  
 
-She's so soft and she's so warm Then she turns into the storm
+She’s so soft and she’s so warm  
+Then she turns into the storm  
 
-She's a lovely little woman Powerful like Harry Truman
+She’s a lovely little woman  
+Powerful like Harry Truman  
 
-She's a cuddly little cat Who will hit you with a bat
+She’s a cuddly little cat  
+Who will hit you with a bat  
 
-She's the cutest thing you've seen But she's also the Ice Queen
+She’s the cutest thing you’ve seen  
+But she’s also the Ice Queen  
 
-She can make you feel like Lord Then she cuts you with her sword
+She can make you feel like Lord  
+Then she cuts you with her sword  
 
-Yes JS is very nice But she's also changing stripes
+Yes JS is very nice  
+But she’s also changing stripes  
 
 _**2012**_
 

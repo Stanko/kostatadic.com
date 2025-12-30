@@ -17,15 +17,20 @@ tags = [
 ]
 +++
 
-Good morning Pearl You pretty girl
+Good morning Pearl  
+You pretty girl  
 
-Hope you slept long And you feel strong
+Hope you slept long  
+And you feel strong  
 
-I am so sorry You had to worry
+I am so sorry  
+You had to worry  
 
-Because I care 'Bout You
+Because I care  
+‘Bout You  
 
-I swear Dear Pu
+I swear  
+Dear Pu  
 
 _**19/03/2018**_
 

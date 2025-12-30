@@ -16,17 +16,23 @@ tags = [
 ]
 +++
 
-In Chengdu, in Chengdu I was thinking 'bout you
+In Chengdu, in Chengdu  
+I was thinking ’bout you  
 
-In the Arab Emirates I will have to wait and wait
+In the Arab Emirates  
+I will have to wait and wait  
 
-But it isn't hard for me 'Cause I'm thinking 'bout XinLi
+But it isn’t hard for me  
+‘Cause I’m thinking ’bout XinLi  
 
-I am thinking 'bout your eyes And it always makes me smile
+I am thinking ’bout your eyes  
+And it always makes me smile  
 
-I am thinking 'bout your hands And the fact that we are friends
+I am thinking ’bout your hands  
+And the fact that we are friends  
 
-'Bout how nice You are You're my shinning little Star
+‘Bout how nice You are  
+You’re my shinning little Star  
 
 _30/07/2018_
 

@@ -17,11 +17,17 @@ tags = [
 ]
 +++
 
-I believe that Khun Steve should live.
+I believe  
+that Khun Steve  
+should live.  
 
-And not choose a bad-booze death-leading abuse.
+And not choose  
+a bad-booze  
+death-leading abuse.  
 
-Ain't a lie: if you die, K will cry.
+Ain’t a lie:  
+if you die,  
+K will cry.  
 
 **_2017_**
 

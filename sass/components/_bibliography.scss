@@ -1,16 +1,13 @@
 .bibliography {
   display: grid;
   gap: 1rem;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 .book {
-  a {
-    /* color: var(--fg); */
-  }
-
   p {
     color: var(--text-light);
+    font-size: 0.875em;
   }
 }
 

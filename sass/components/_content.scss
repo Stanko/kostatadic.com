@@ -20,14 +20,7 @@ main {
 .content {
   display: grid;
   gap: 0.75em;
-
-  > * {
-    max-width: 40rem;
-  }
-
-  > .wide {
-    max-width: 100%;
-  }
+  grid-template-columns: minmax(0, 100%);
 
   h2,
   h3 {
@@ -45,7 +38,7 @@ main {
     }
   }
 
-  a:has(> img:only-child) {
+  > a:has(> img:only-child) {
     display: block;
     margin-bottom: 0.75rem;
   }

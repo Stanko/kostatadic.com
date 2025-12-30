@@ -14,21 +14,45 @@ tags = [
 ]
 +++
 
-If you come to Footscray Watch the Magpies play And be sure to see Number 53
+If you come to Footscray  
+Watch the Magpies play  
+And be sure to see  
+Number 53  
 
-Number 53 Number 53 Igor Bera Number 53
+Number 53  
+Number 53  
+Igor Bera  
+Number 53  
 
-If you come today You will have to say I like Igor B Number 53
+If you come today  
+You will have to say  
+I like Igor B  
+Number 53  
 
-Number 53 Number 53 Igor Bera Number 53
+Number 53  
+Number 53  
+Igor Bera  
+Number 53  
 
-He'll be everywhere As strong as a bear As fast as a bee Number 53
+He’ll be everywhere  
+As strong as a bear  
+As fast as a bee  
+Number 53  
 
-Number 53 Number 53 Igor Bera Number 53
+Number 53  
+Number 53  
+Igor Bera  
+Number 53  
 
-Playing hard but fair He's the best, I swear And he'll always be Number 53
+Playing hard but fair  
+He’s the best, I swear  
+And he’ll always be  
+Number 53  
 
-Number 53 Number 53 Igor Bera Number 53
+Number 53  
+Number 53  
+Igor Bera  
+Number 53  
 
 _**16/05/2018**_
 

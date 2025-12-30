@@ -17,25 +17,55 @@ tags = [
 ]
 +++
 
-This is the story of the tangram square I believe it's true though I wasn't there
+This is the story  
+of the tangram square  
+I believe it’s true  
+though I wasn’t there  
 
-A small Chinese boy was extremely bored So he took a plank and his father's sword
+A small Chinese boy  
+was extremely bored  
+So he took a plank  
+and his father’s sword  
 
-And he made a square and split it in seven He did it all morning from eight to eleven
+And he made a square  
+and split it in seven  
+He did it all morning  
+from eight to eleven  
 
-And he spent the day playing with the pieces Making people, things and animal species
+And he spent the day  
+playing with the pieces  
+Making people, things  
+and animal species  
 
-First he made the girl special to his heart A school friend of his beautiful and smart
+First he made the girl  
+special to his heart  
+A school friend of his  
+beautiful and smart  
 
-Then he made the golden crown of the czar Then he made the Moon and he made a star
+Then he made the golden  
+crown of the czar  
+Then he made the Moon  
+and he made a star  
 
-Then he made a house and he made a bark And he made a whale and he made a shark
+Then he made a house  
+and he made a bark  
+And he made a whale  
+and he made a shark  
 
-In the end he made a grumpy man's head Then his mother called: "It is time for bed!"
+In the end he made  
+a grumpy man’s head  
+Then his mother called:  
+“It is time for bed!”  
 
-Many years have passed since that autumn day But his puzzle has survived till today
+Many years have passed  
+since that autumn day  
+But his puzzle has  
+survived till today  
 
-It has spread across the whole world, I swear And this is the story of the tangram square
+It has spread across  
+the whole world, I swear  
+And this is the story  
+of the tangram square  
 
 **_2014_**
 

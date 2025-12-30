@@ -1,13 +1,19 @@
 {% extends "base.html" %} {% block content %}
 
+<a class="back-link" href="/">&laquo; Back to home</a>
+
 <div class="blog__header">
   <h1>{{section.title}}</h1>
 
   <nav class="blog__nav">
+    <a href="/tags/">All Tags</a>
+
     <p>Selected tags:</p>
 
-    <a href="/tags/thisthat/">This & That: A Self Portrait</a>
-    <a href="/tags/drama/">A Few Grams of Drama</a>
+    <ul>
+      <li><a href="/tags/thisthat/">This & That: A Self Portrait</a></li>
+      <li><a href="/tags/drama/">A Few Grams of Drama</a></li>
+    </ul>
   </nav>
 </div>
 
