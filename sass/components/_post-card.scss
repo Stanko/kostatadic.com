@@ -12,11 +12,7 @@
   @include md {
     min-height: 3.25rem;
     margin-inline: -2rem;
-    padding: 0.5rem 12.5rem 0.5rem 2rem;
-  }
-
-  @include lg {
-    padding-right: 18.5rem;
+    padding: 0.5rem 2rem;
   }
 
   &:hover,
@@ -34,6 +30,19 @@
         height: 8rem;
       }
     }
+  }
+}
+
+.post-card:has(.post-card__image-wrapper) {
+  @include md {
+    min-height: 3.25rem;
+    margin-inline: -2rem;
+    padding: 0.5rem 2rem;
+    padding-right: 12.5rem;
+  }
+
+  @include lg {
+    padding-right: 18.5rem;
   }
 }
 
