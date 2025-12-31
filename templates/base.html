@@ -50,18 +50,16 @@
     <meta name="twitter:title" content="{{ meta_title }}" />
     <meta name="twitter:description" content="{{ description }}" />
 
-    {% if page_data.extra.image %}
-      <!--TODO-->
-      <!--<meta property="twitter:image" content="{{ config.base_url | safe }}{{ page_data.extra.image | safe }}" />-->
-      <!--<meta property="og:image" content="{{ config.base_url | safe }}{{ page_data.extra.image | safe }}" />-->
+    {% if page.path and page.extra.image %}
+      <meta property="twitter:image" content="{{ config.base_url | safe }}{{ page.path | safe }}images/{{ page.extra.image | safe }}" />
+      <meta property="og:image" content="{{ config.base_url | safe }}{{ page.path | safe }}images/{{ page.extra.image | safe }}" />
     {% else %}
-      <!--TODO-->
-      <!--<meta property="twitter:image" content="{{ config.base_url | safe }}/img/home/thumb.jpg" />-->
-      <!--<meta property="og:image" content="{{ config.base_url | safe }}/img/home/thumb.jpg" />-->
+      <meta property="twitter:image" content="{{ config.base_url | safe }}/thumb.jpg" />
+      <meta property="og:image" content="{{ config.base_url | safe }}/thumb.jpg" />
     {% endif %}
 
     {% block rss %}
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
     {% endblock %}
 
     {% block head %}{% endblock %}
