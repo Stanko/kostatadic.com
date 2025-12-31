@@ -35,7 +35,7 @@ Znao sam da će se to desiti čim su te uhvatili. I dok su te držali (najviše 
 
 Želeo sam da uverim sebe da se to nije dogodilo, ali posle vesti na radiju više nije bilo sumnje. Međutim, pre nego sto sam stigao da osetim bol ponovo sam te ugledao.
 
-Nalazili smo se u nekom hodniku prepunom ljudi. Ti si im zbog nečega prkosila, jedino si ti išla u smeru suprotnom od smera kretanja svih drugih. Iznenada si skinula ma¬jicu, na opšte zgražavanje i bes prisutnih. Nisu ih razjarile tvoje gole grudi, već način na koji si rukom odbacila maji¬cu. Oni su te želeli golu, ali golu i slomljenu, golu i poniženu. Nisu želeli da tvoje ruke ponovo slobodno lete. Nisu želeli da tvoja kosa ponovo viori.
+Nalazili smo se u nekom hodniku prepunom ljudi. Ti si im zbog nečega prkosila, jedino si ti išla u smeru suprotnom od smera kretanja svih drugih. Iznenada si skinula majicu, na opšte zgražavanje i bes prisutnih. Nisu ih razjarile tvoje gole grudi, već način na koji si rukom odbacila majicu. Oni su te želeli golu, ali golu i slomljenu, golu i poniženu. Nisu želeli da tvoje ruke ponovo slobodno lete. Nisu želeli da tvoja kosa ponovo viori.
 
 Odvažno si se probijala kroz gužvu, dok su te besno progonili. Shvatio sam da su te svi oni povredili. I opet nisu uspeli da te slome. Shvatio sam da sam te i ja povredio. Uskoro sam ja postao taj koji se probijao kroz ljude.
 
@@ -147,7 +147,7 @@ Odseli su kod očeve prijateljice Kate, starije mršave žene sa naočarima. Sed
 
 On to nije znao. Za njega je teta Kata bila uvek dobro raspoložena, duhovita žena, koja je bez obzira na razlike u godinama mogla da vodi zanimljiv razgovor i sa njim i sa njegovim ocem. Kod nje su spavali i provodili popodne. Uveče je otac izlazio da se vidi sa starim prijateljima, a pre podne mu je pokazivao grad koji je skoro zaboravio i u kojem mu se ono što je pamtio činilo smešno malim u odnosu na sećanje.
 
-„U šta si se ti upustio, čovječe”, govorio mu je otac tokom jedne od tih šetnji. „Majka ti se raboljela od brige kad je saznala, a ti si iskoristio njen odlazak u bolnicu da pušiš na miru. Vidiš šta ti je uradilo to smeće? Misliš da sam ja zadovoljan time kako živimo sada? I šta bi trebalo da radim? Da se i ja lijepo izvalim i da se svi zajedno naduvamo?”
+„U šta si se ti upustio, čovječe”, govorio mu je otac tokom jedne od tih šetnji. „Majka ti se razboljela od brige kad je saznala, a ti si iskoristio njen odlazak u bolnicu da pušiš na miru. Vidiš šta ti je uradilo to smeće? Misliš da sam ja zadovoljan time kako živimo sada? I šta bi trebalo da radim? Da se i ja lijepo izvalim i da se svi zajedno naduvamo?”
 
 Slagao se sa ocem, ali još uvek to nije stvarno mislio. Međutim, dok je tog popodneva stajao na prozoru (posle fantastičnog ručka tokom kojeg mu je teta Kata stalno, čim bi ispraznio čašu, dosipala još piva) i posmatrao prelepe devojke koje su šetale suncem obasjanom glavnom ulicom, shvatio je da je njegov otac u pravu i odlučio da se stvarno sredi, da više nikada ne zapali džoint i da jednog dana ima stan u zgradi poput te, u zgradi sa visokim plafonima i starom, ali lepom fasadom, u zgradi koja se nalazi u samom centru grada.
 

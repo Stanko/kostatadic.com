@@ -7,12 +7,16 @@
   position: relative;
   margin-inline: -1.25rem;
   padding: 0.5rem 1.25rem;
-  text-decoration: none;
 
   @include md {
     min-height: 3.25rem;
     margin-inline: -2rem;
     padding: 0.5rem 2rem;
+  }
+
+  @include lg {
+    margin-inline: -3rem;
+    padding-inline: 3rem;
   }
 
   &:hover,
@@ -35,9 +39,6 @@
 
 .post-card:has(.post-card__image-wrapper) {
   @include md {
-    min-height: 3.25rem;
-    margin-inline: -2rem;
-    padding: 0.5rem 2rem;
     padding-right: 12.5rem;
   }
 
@@ -62,6 +63,10 @@
     width: 6rem;
     display: block;
     flex-shrink: 0;
+  }
+
+  @include lg {
+    right: 3rem;
   }
 }
 

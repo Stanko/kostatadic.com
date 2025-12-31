@@ -25,4 +25,13 @@
   {% endfor %}
 </div>
 
+<div class="post__pagination">
+  {% if page.higher %}
+    <a href="{{ page.higher.permalink | safe }}">&laquo; Previous post</a>
+  {% endif %}
+  {% if page.lower %}
+    <a class="post__pagination-next" href="{{ page.lower.permalink | safe }}">Next post &raquo;</a>
+  {% endif %}
+</div>
+
 {% endblock content %}
