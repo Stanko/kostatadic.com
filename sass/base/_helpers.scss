@@ -8,6 +8,10 @@
   @include md {
     padding-inline: 2rem;
   }
+
+  @include md {
+    padding-inline: 3rem;
+  }
 }
 
 .back-link {

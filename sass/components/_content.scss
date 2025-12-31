@@ -10,6 +10,7 @@ main {
   }
 
   @include lg {
+    padding: 3rem;
     border: 1px solid var(--border);
     margin-block: 3rem;
   }
@@ -45,5 +46,6 @@ main {
 
   figcaption {
     margin-top: 0.75em;
+    display: flex;
   }
 }
